@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "개구리 개발자"
 description              : "물음에 대한 최선의 답을 적어두는 공간"
 url                      : "https://seungwon-yoo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/seungwon-yoo" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/face_2021.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -103,14 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "Seungwon Yoo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/face_2021.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "본능과 멀어지려고 노력하는 사람"
-  location         : "Somewhere"
+  location         : "Nowon, Seoul, Korea"
   email            : "qwer15417@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:qwer15417@gmail.com"
+      # url: "mailto:qwer15417@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
