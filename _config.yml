@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/seungwon-yoo/seungwon-yoo.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/face_2021.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "내가 생각할 수 있는 최선의 것(이었던..)" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "행복하자~ 우리~ 아프지 말고~" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Yoo Seungwon"
   avatar           : "assets/images/face_2021.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**본능과 멀어지려는 삶**<br>블로그가 예뻐야 포스팅을 자주 할 것 같아 만들었습니다."
+  bio              : "**본능과 멀어지려는 삶**<br><br>블로그가 예뻐야 포스팅도 자주 한다!"
   location         : "Nowon, Seoul, Korea"
   email            : "qwer15417@gmail.com"
   links:
